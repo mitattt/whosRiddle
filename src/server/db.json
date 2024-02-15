@@ -1,0 +1,59 @@
+{
+  "riddles": [
+    {
+      "id": 1,
+      "title": "Weekly Riddle",
+      "subtitle": "Riddles you need to solve weekly",
+      "description": "I can add to several hundred. But can’t subtract multiply or divide. Whatever I add to, it’s always in front of you but never behind. And the number I add to You can’t really hide!",
+      "type": "Weekly",
+      "riddle": "Who am I?",
+      "image": "question",
+      "positionRight": -22,
+      "positionTop": -40
+    },
+    {
+      "id": 2,
+      "title": "1 Day Exp. Riddles",
+      "subtitle": "1 day for solving",
+      "description": "I'm a puzzling enigma that beckons for a solution within a day's span. While I can accumulate into the hundreds, I'm immune to subtraction, multiplication, or division. I'm always present, never trailing behind, and the figure I increase can't be concealed. Who am I?",
+      "type": "1 day",
+      "riddle": "What entity am I?",
+      "image": "1"
+    },
+    {
+      "id": 3,
+      "title": "3 Days Exp. Riddles",
+      "subtitle": "3 days for solving",
+      "description": "Embark on a three-day journey to unravel my enigma. I possess the ability to grow into substantial sums, yet remain impervious to mathematical operations such as subtraction, multiplication, or division. I'm forever present, leading the way, and my augmented value is impossible to mask. Who might I be?",
+      "type": "3 days",
+      "riddle": "Who lurks behind this veil of mystery?",
+      "image": "3"
+    },
+    {
+      "id": 4,
+      "title": "Special Brand Riddles",
+      "subtitle": "Riddles related with popular brands such as",
+      "description": "Dive into the realm of branded puzzles, where I await your deciphering. Capable of augmentation into significant quantities, I'm immune to the arithmetic trio of subtraction, multiplication, and division. Ever-present and upfront, my additional value refuses to be concealed. Can you discern my identity?",
+      "type": "Special",
+      "riddle": "Which puzzle am I?",
+      "image": "brand",
+      "positionRight": -120,
+      "positionTop": -40,
+      "collection": [
+        "https://svgshare.com/i/137n.svg",
+        "https://svgshare.com/i/1382.svg",
+        "https://svgshare.com/i/138a.svg"
+      ]
+    }
+  ],
+  "rating": {"rating": 954},
+  "notifications": [
+    {
+      "title": "Time to solve some riddle"
+    }
+  ],
+  "hints": [{"title": "To solve some riddle, please choose the one you like"}],
+  "profile": {
+    "name": "whosRiddle"
+  }
+}

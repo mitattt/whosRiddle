@@ -1,0 +1,15 @@
+export const PALETTE = {
+  greyRegular: '#3D444F',
+  greyLight: '#5F6F89',
+  white: '#FFF',
+  whiteCommon: '#F8F9FD',
+  whitePinkish: '#E7EBFF',
+  orangeStrong: '#FF876D',
+  orangeSoft: '#F8B469',
+  pinkStrong: '#E75AC8',
+  pinkSoft: '#FF708A',
+  greenStrong: '#6DBC33',
+  greenSoft: '#7DCB44',
+  greenLight: '#8FD45B',
+  greenDark: '#7ACA40',
+};
